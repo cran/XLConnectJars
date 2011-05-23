@@ -1,0 +1,11 @@
+XLConnectJars News
+------------------
+
+0.1-2	2011-07-07
+	*	Moving to Apache POI 3.8-beta3
+
+0.1-1	2011-05-26
+	*	Moving to Apache POI 3.8-beta2
+
+0.1-0	2011-02-27
+	*	Initial Release including Apache POI 3.7
