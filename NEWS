@@ -1,6 +1,9 @@
 XLConnectJars News
 ------------------
 
+0.2-0	2012-07-18
+	*	Moving to Apache POI 3.8
+	
 0.1-4	2012-02-10
 	*	Moving to Apache POI 3.8-beta5
 	*	Including Joda Time 2.0

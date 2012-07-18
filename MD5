@@ -1,6 +1,6 @@
-9c6d5487533f34bc97360af55c7115b3 *DESCRIPTION
+54145973e3916568a9b472bb90442f9c *DESCRIPTION
 6c3610eeb1190b90a407a9a47078ede4 *NAMESPACE
-05c3b0c8f1c1625413ff9396c3e93ab3 *NEWS
+b7ceef88bb2a042fba115a271c5c8ed8 *NEWS
 1274cdbe001c1d2bbeb8379f73e97ecf *NOTICE
 599d4819893f3c6d69331c1a715c8865 *R/onLoad.R
 4686be8303e04b41a0b5c37710b9a09d *inst/java/commons-codec-1.5.jar
@@ -8,8 +8,8 @@
 8b6290a9834be663fef9c21adeb8cf5e *inst/java/joda-time-2.0.jar
 1f40fb782a4f2cf78f161d32670f7a3a *inst/java/junit-3.8.1.jar
 eb5bffcf4c47ae96e3021ef92459720b *inst/java/ooxml-schemas-1.1.jar
-75d7c0256873439ea1889e5f692ec12a *inst/java/poi-3.8-beta5.jar
-907027fe39fef17bb07be240a5afe82f *inst/java/poi-ooxml-3.8-beta5.jar
+5c915f48922046c71121fd7021aa23cb *inst/java/poi-3.8.jar
+8f147b248f078799c24c8714f185b1a8 *inst/java/poi-ooxml-3.8.jar
 458715c0f7646a56b1c6ad3138098beb *inst/java/xml-apis-1.0.b2.jar
 1e8e1618b896d74068adf31821125834 *inst/java/xmlbeans-2.5.0.jar
-ddf06c6a765a90eaf2063bd831c65849 *man/XLConnectJars-package.Rd
+ce436537d108df3862d348fdee8e89eb *man/XLConnectJars-package.Rd
