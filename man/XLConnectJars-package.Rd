@@ -12,8 +12,8 @@ This package provides external JAR dependencies for the XLConnect package
 \tabular{ll}{
 Package: \tab XLConnectJars\cr
 Type: \tab Package\cr
-Version: \tab 0.2-0\cr
-Date: \tab 2012-07-18\cr
+Version: \tab 0.2-4\cr
+Date: \tab 2013-01-31\cr
 URL: \tab \url{http://www.mirai-solutions.com}\cr
 \tab \url{http://miraisolutions.wordpress.com}\cr
 SystemRequirements: \tab java (>= 6.0)\cr
@@ -21,7 +21,7 @@ Depends: \tab R (>= 2.10.0), rJava\cr
 License: \tab GPL-3\cr
 LazyLoad: \tab yes\cr
 }
-The dependency provided in this package is Apache POI 3.8.
+The dependency provided in this package is Apache POI 3.9.
 }
 \author{
 Mirai Solutions GmbH, \email{xlconnect@mirai-solutions.com}
