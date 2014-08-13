@@ -1,10 +1,9 @@
-6ff317b472bca9c281f8e0d70c8f3bb9 *DESCRIPTION
+6487cc1359730bd8322356f55f7630ed *DESCRIPTION
 6c3610eeb1190b90a407a9a47078ede4 *NAMESPACE
-0ef2ec1331c7f70f5d0d21c24f3586b9 *NEWS
+53d1970f47091124d077a68eca36dfd8 *NEWS
 c80b4148bc3c4bf1dd19e6f1c8ab767e *R/onLoad.R
-c670a173592577bc46c68159b40caca6 *inst/COPYRIGHTS
+bc8bb3f2be4134f0c963eca8adebef54 *inst/COPYRIGHTS
 eb5bffcf4c47ae96e3021ef92459720b *inst/java/ooxml-schemas-1.1.jar
-7d436a53c64490bee564c576babb36b4 *inst/java/stax-api-1.0.1.jar
 6591c08682d613194dacb01e95c78c2c *inst/java/xmlbeans-2.6.0.jar
-a5b0c7846ba0ccf6af242113edd5d0dc *java/README
-33a6f0cfb41cc76b6ed3c004d27675f7 *man/XLConnectJars-package.Rd
+1f194eaf1272f74acc5811f85c1d0d48 *java/README
+f85dfbfcdfa0f55a9f2d7bf25f82cd56 *man/XLConnectJars-package.Rd
