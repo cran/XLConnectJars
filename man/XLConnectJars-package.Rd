@@ -12,12 +12,11 @@ Provides external JAR dependencies for the XLConnect package
 \tabular{ll}{
 Package: \tab XLConnectJars\cr
 Type: \tab Package\cr
-Version: \tab 0.2-9\cr
-Date: \tab 2014-08-13\cr
+Version: \tab 0.2-12\cr
+Date: \tab 2016-06-23\cr
 URL: \tab \url{http://www.mirai-solutions.com}\cr
 \tab \url{http://miraisolutions.wordpress.com}\cr
 SystemRequirements: \tab java (>= 1.6)\cr
-Depends: \tab R (>= 2.10.0)\cr
 Imports: \tab rJava\cr
 License: \tab GPL-3\cr
 Copyright: \tab See file COPYRIGHTS\cr
