@@ -1,12 +1,12 @@
-0aba0bab5d6739b811d8c4daad1b068c *DESCRIPTION
+891be1eabe7786e9683e585f4a1200f0 *DESCRIPTION
 6c3610eeb1190b90a407a9a47078ede4 *NAMESPACE
-bfa527771651e6f6683331afeaf7e3fa *NEWS
-cd15af364e4e1ccddcdc870929000752 *R/onLoad.R
-61f15fc655a974facc5e9e8834ca7c62 *inst/COPYRIGHTS
+bbaaa5a6e0bf0ec10133af3d66448acb *NEWS
+3a4fc8bebeef3e25dba0d88dd20733aa *R/onLoad.R
+d16fc33bb91ce9eba3a8d8d51116b2a5 *inst/COPYRIGHTS
 353cf6a2bdba09595ccfa073b78c7fcb *inst/java/commons-codec-1.10.jar
 45af6a8e5b51d5945de6c7411e290bd1 *inst/java/commons-collections4-4.1.jar
 ff85fe8f3ab26b36092475a95f43fb7e *inst/java/joda-time-2.3.jar
 d0cb04df571c58123d8cf1275a422d9c *inst/java/ooxml-schemas-1.3.jar
 6591c08682d613194dacb01e95c78c2c *inst/java/xmlbeans-2.6.0.jar
 3a7ee0cef679cd160eee7ff0fc7a6669 *java/README
-d8b0d92295d705c937a6ceb24da71f45 *man/XLConnectJars-package.Rd
+08a1a1aeb2318316ca79d5efc2b35991 *man/XLConnectJars-package.Rd
